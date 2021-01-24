@@ -1,0 +1,17 @@
+.navbutton {
+	box-shadow: 0 4px 8px 0 rgba(0,0,0,.2);
+	display: inline-block;
+	font-weight: none;
+	color: black;
+	padding: 9px;
+	margin-top: 15px;
+	margin-left: 15px;
+	font-size: 20px;
+	transition: .2s;
+	margin-bottom: 5px;
+}
+
+.navbutton:hover{
+	box-shadow: 0 6px 10px 0 rgba(0,0,0,.2);
+	transition: .2s;
+}
